@@ -5,10 +5,18 @@
 <h1 align="center">✨ Olá, eu sou o Matheus (Shiroi) 👋</h1>
 
 <p align="center">
-  🎓 Futuro Engenheiro de Software <br>
-  💻 Estudante de JavaScript e Node.js <br>
+  🎓 Estudante de Desenvolvimento de Sistemas no SENAI <br>
+  💾 Atualmente aprendendo Banco de Dados (MySQL, SQLite) <br>
+  💻 Foco em JavaScript e Node.js <br>
   🚀 Criador do projeto <strong>Sussuros Paranormais</strong> <br>
   🌐 Site em construção: <a href="https://discord.gg/7McbVVVEfu">Clique aqui</a> <br>
+</p>
+
+---
+
+### ⌨️ Digitação Automática:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Oi%2C+eu+sou+o+Shiroi!;Estudante+de+Dev+no+SENAI.;Amante+de+JavaScript+e+Node.js;SQL+e+SQLite+na+veia!;Bem-vindo+ao+meu+GitHub!" />
 </p>
 
 ---
@@ -17,10 +25,31 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 </p>
+
+---
+
+### 📚 Componentes Curriculares do Curso SENAI
+- 📝 Comunicação e Redação Técnica  
+- ⚡ Fundamentos de Eletroeletrônica Aplicada  
+- 🧠 Lógica de Programação  
+- 💡 Criatividade e Ideação em Projetos de Inovação  
+- 🌐 Internet das Coisas (IoT)  
+- 📱 Programação de Aplicativos  
+- 🗄️ Banco de Dados (MySQL, SQLite)  
+- 🧩 Modelagem de Projetos de Inovação  
+- 👨‍💻 Desenvolvimento de Sistemas  
+- 🔧 Manutenção de Sistemas  
+- 🧱 Modelagem de Sistemas  
+- 🧪 Prototipagem de Negócios Inovadores  
+- 🚀 Implantação de Sistemas  
+- 🧾 Teste de Sistemas  
+- 🏁 Implementação de Negócios Inovadores  
 
 ---
 
@@ -39,6 +68,20 @@
 
 ---
 
+### 🎵 Spotify Status
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31fsbl3w2qxzxkkbnr2veqbbz57q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" />
+</p>
+
+---
+
+### 😂 Piada de Programador
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+</p>
+
+---
+
 ### 📫 Vamos nos conectar?
 <p align="center">
   <a href="https://discord.gg/7McbVVVEfu">
@@ -47,14 +90,11 @@
   <a href="https://github.com/ShiroiCrypto">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://dev.to/envoy_">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-### 🐍 Snake Game (Atualização Automática dos Commits)
+### 🐍 Snake Game
 <p align="center">
   <img src="https://github.com/ShiroiCrypto/ShiroiCrypto/blob/output/github-contribution-grid-snake.svg" />
 </p>
@@ -63,6 +103,3 @@
 
 ### ✨ Frase aleatória:
 > <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
----
-
