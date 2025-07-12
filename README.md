@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://i.imgur.com/A6bWGFl.gif" width="100%" />
 </p>
@@ -70,7 +71,7 @@
 
 ### 🎵 Spotify Status
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31fsbl3w2qxzxkkbnr2veqbbz57q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=pt61y3fnlev40qucbp108ckjg&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" />
 </p>
 
 ---
