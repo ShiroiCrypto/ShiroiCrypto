@@ -71,8 +71,11 @@
 
 ### 🎵 Spotify Status
 <p align="center">
-  [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=pt61y3fnlev40qucbp108ckjg&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=132b12)](https://spotify-github-profile.kittinanx.com/api/view?uid=pt61y3fnlev40qucbp108ckjg&redirect=true)
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=pt61y3fnlev40qucbp108ckjg&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pt61y3fnlev40qucbp108ckjg&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Profile" />
+  </a>
 </p>
+
 
 ---
 
