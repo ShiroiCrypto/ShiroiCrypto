@@ -10,7 +10,7 @@
   💾 Atualmente aprendendo Desenvolvimento de Sistemas (Java, etc...) <br>
   💻 Foco em JavaScript e Node.js <br>
   🚀 Criador do projeto <strong>Sussuros Paranormais</strong> <br>
-  🌐 Site em construção: <a href="https://guss.discloud.app">Clique aqui</a> <br>
+  🌐 Site em construção: <a href="https://shiroi-portfolio.vercel.app">Clique aqui</a> <br>
 </p>
 
 ---
